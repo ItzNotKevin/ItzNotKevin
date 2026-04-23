@@ -1,7 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&vCenter=true&width=500&lines=Hey%2C+I'm+Kevin+%F0%9F%91%8B;CS+%40+University+of+Waterloo;Building+things+that+feel+good+to+use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&background=000000&vCenter=true&width=500&height=60&lines=Hey%2C+I'm+Kevin+%F0%9F%91%8B;CS+%40+University+of+Waterloo;Building+things+that+feel+good+to+use)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/kevinwxli.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kevinwxli.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinwxli)
+
+---
+
+✦ CS @ University of Waterloo · 3.98 GPA · Honours, Co-op
+
+✦ currently into
+  ↳ building polished UIs with React & Next.js
+  ↳ AI/ML, agentic AI & computer vision
+
+✦ highlights
+  ↳ built an AI Teaching Assistant @ Hack Canada 2026
+  ↳ DECA Provincial Champion & ICDC Qualifier
 
 ---
 
@@ -44,31 +56,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 Recent Projects
-| Project | Description |
-|---------|-------------|
-| **[Tandem](https://github.com/ItzNotKevin)** | Real-time AI tutor that watches your whiteboard and speaks to you |
-| **[Music Swipe](https://github.com/ItzNotKevin)** | Tinder-style music discovery with ML recommendation algorithms |
-| **[Coding RPG](https://github.com/ItzNotKevin)** | 2D RPG with procedural coding puzzles that adapt to your skill level |
-
----
-
-### 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzNotKevin&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzNotKevin&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ItzNotKevin&theme=default&hide_border=true)
-
----
-
-### 🏆 Highlights
-- 🤖 AI Teaching Assistant @ Hack Canada 2026
-- 🥇 DECA Provincial Champion & ICDC Qualifier, Principles of Finance
-- 🏅 CCC Distinction, Senior Division
-- 🏅 CSMC Distinction
-- 📚 3.98 GPA, Honours Co-op
