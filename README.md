@@ -1,19 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&background=000000&vCenter=true&width=500&height=60&lines=Hey%2C+I'm+Kevin+%F0%9F%91%8B;CS+%40+University+of+Waterloo;Building+things+that+feel+good+to+use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&background=0D1117&vCenter=true&width=500&height=60&lines=Hey%2C+I'm+Kevin+%F0%9F%91%8B;CS+%40+University+of+Waterloo;Building+things+that+feel+good+to+use)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/kevinwxli.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kevinwxli.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinwxli)
 
 ---
 
-✦ CS @ University of Waterloo · 3.98 GPA · Honours, Co-op
+**✦ CS @ University of Waterloo · 3.98 GPA · Honours, Co-op**
 
-✦ currently into
-  ↳ building polished UIs with React & Next.js
-  ↳ AI/ML, agentic AI & computer vision
+**✦ currently into**
+- building polished UIs with React & Next.js
+- AI/ML, agentic AI & computer vision
 
-✦ highlights
-  ↳ built an AI Teaching Assistant @ Hack Canada 2026
-  ↳ DECA Provincial Champion & ICDC Qualifier
+**✦ highlights**
+- built an AI Teaching Assistant @ Hack Canada 2026
+- DECA Provincial Champion & ICDC Qualifier
 
 ---
 
